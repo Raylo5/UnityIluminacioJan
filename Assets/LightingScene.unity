@@ -1351,33 +1351,33 @@ MonoBehaviour:
     m_Aspect: 0
   m_HasValidSHForNormalization: 1
   m_SHForNormalization:
-    'sh[ 0]': 0.14879957
-    'sh[ 1]': 0.018513642
-    'sh[ 2]': -0.028080946
-    'sh[ 3]': -0.062662795
-    'sh[ 4]': -0.017419038
-    'sh[ 5]': -0.004181812
-    'sh[ 6]': 0.0047255415
-    'sh[ 7]': 0.034946468
-    'sh[ 8]': 0.013189756
-    'sh[ 9]': 0.041892678
-    'sh[10]': -0.0010962723
-    'sh[11]': 0.0030361735
-    'sh[12]': 0.002454192
-    'sh[13]': 0.0044139223
-    'sh[14]': 0.0044723307
-    'sh[15]': 0.001575673
-    'sh[16]': 0.005270388
-    'sh[17]': 0.005315985
-    'sh[18]': 0.009012317
-    'sh[19]': 0.00010755666
-    'sh[20]': 0.0013882426
-    'sh[21]': 0.0031162354
-    'sh[22]': 0.00070973637
-    'sh[23]': 0.00062779355
-    'sh[24]': 0.00003180824
-    'sh[25]': 0.001437548
-    'sh[26]': 0.0012643312
+    'sh[ 0]': 0.19497809
+    'sh[ 1]': 0.017644
+    'sh[ 2]': -0.095119104
+    'sh[ 3]': -0.08846862
+    'sh[ 4]': -0.024182344
+    'sh[ 5]': 0.016308194
+    'sh[ 6]': 0.024358055
+    'sh[ 7]': 0.03291822
+    'sh[ 8]': 0.0053423154
+    'sh[ 9]': 0.05060525
+    'sh[10]': -0.004733427
+    'sh[11]': -0.0126215685
+    'sh[12]': -0.002034914
+    'sh[13]': 0.0033111426
+    'sh[14]': 0.010317892
+    'sh[15]': 0.0059528155
+    'sh[16]': 0.006386397
+    'sh[17]': 0.003129091
+    'sh[18]': 0.00935897
+    'sh[19]': -0.00017781
+    'sh[20]': 0.00095600745
+    'sh[21]': 0.0030839
+    'sh[22]': 0.0007466976
+    'sh[23]': 0.000974745
+    'sh[24]': 0.00027717932
+    'sh[25]': 0.0016758866
+    'sh[26]': 0.0008310929
   m_SHValidForCapturePosition: {x: 22.6, y: 9.5, z: 12.78219}
   m_SHValidForSourcePosition: {x: 22.6, y: 9.5, z: 12.78219}
   m_ReflectionProbeVersion: 10
@@ -2631,33 +2631,33 @@ MonoBehaviour:
     m_Aspect: 0
   m_HasValidSHForNormalization: 1
   m_SHForNormalization:
-    'sh[ 0]': 0.15566501
-    'sh[ 1]': 0.0048992205
-    'sh[ 2]': 0.016902722
-    'sh[ 3]': 0.03811306
-    'sh[ 4]': 0.010856577
-    'sh[ 5]': -0.0017906657
-    'sh[ 6]': 0.0055985837
-    'sh[ 7]': -0.0039650043
-    'sh[ 8]': -0.0055617387
-    'sh[ 9]': 0.042193767
-    'sh[10]': -0.0086926175
-    'sh[11]': 0.014081541
-    'sh[12]': 0.010254898
-    'sh[13]': 0.0016301896
-    'sh[14]': 0.002239476
-    'sh[15]': 0.0025892989
-    'sh[16]': 0.0007536316
-    'sh[17]': -0.000036073485
-    'sh[18]': 0.008973321
-    'sh[19]': -0.0015910041
-    'sh[20]': 0.0014171521
-    'sh[21]': 0.0015486244
-    'sh[22]': 0.00019268472
-    'sh[23]': 0.00061263994
-    'sh[24]': 0.00048291206
-    'sh[25]': 0.0000486934
-    'sh[26]': -0.00007406117
+    'sh[ 0]': 0.15537919
+    'sh[ 1]': 0.004727059
+    'sh[ 2]': 0.016802294
+    'sh[ 3]': 0.037838772
+    'sh[ 4]': 0.010623348
+    'sh[ 5]': -0.0017343457
+    'sh[ 6]': 0.0054490785
+    'sh[ 7]': -0.0038992756
+    'sh[ 8]': -0.0054172403
+    'sh[ 9]': 0.04200417
+    'sh[10]': -0.008672975
+    'sh[11]': 0.014038402
+    'sh[12]': 0.010211869
+    'sh[13]': 0.0016181653
+    'sh[14]': 0.002220815
+    'sh[15]': 0.0025162576
+    'sh[16]': 0.00069655525
+    'sh[17]': -0.000029448
+    'sh[18]': 0.009021681
+    'sh[19]': -0.001512336
+    'sh[20]': 0.0015392196
+    'sh[21]': 0.0015188114
+    'sh[22]': 0.00022526016
+    'sh[23]': 0.00072372425
+    'sh[24]': 0.00047337395
+    'sh[25]': 0.000013096072
+    'sh[26]': -0.0000772178
   m_SHValidForCapturePosition: {x: 14.6, y: 9, z: 14.6}
   m_SHValidForSourcePosition: {x: 14.6, y: 9, z: 14.6}
   m_ReflectionProbeVersion: 10
@@ -3106,33 +3106,33 @@ MonoBehaviour:
     m_Aspect: 0
   m_HasValidSHForNormalization: 1
   m_SHForNormalization:
-    'sh[ 0]': 0.24992315
-    'sh[ 1]': -0.012482186
-    'sh[ 2]': 0.05673073
-    'sh[ 3]': -0.066520266
-    'sh[ 4]': -0.022925785
-    'sh[ 5]': 0.006738716
-    'sh[ 6]': -0.00022087878
-    'sh[ 7]': -0.003875646
-    'sh[ 8]': -0.0198457
-    'sh[ 9]': 0.06536315
-    'sh[10]': 0.0057145264
-    'sh[11]': 0.016221005
-    'sh[12]': -0.021411961
-    'sh[13]': -0.009009334
-    'sh[14]': 0.0038049547
-    'sh[15]': -0.000086811924
-    'sh[16]': -0.0015686183
-    'sh[17]': -0.0051539904
-    'sh[18]': 0.0053708297
-    'sh[19]': 0.00078399916
-    'sh[20]': 0.0017089531
-    'sh[21]': -0.002101791
-    'sh[22]': -0.00085108384
-    'sh[23]': 0.0003917311
-    'sh[24]': 0.000032999098
-    'sh[25]': -0.00031129873
-    'sh[26]': -0.00034967868
+    'sh[ 0]': 0.24651359
+    'sh[ 1]': 0.0065856627
+    'sh[ 2]': 0.05164614
+    'sh[ 3]': -0.08117778
+    'sh[ 4]': -0.04317633
+    'sh[ 5]': 0.007960886
+    'sh[ 6]': -0.0040296093
+    'sh[ 7]': -0.017871033
+    'sh[ 8]': -0.01784813
+    'sh[ 9]': 0.061819684
+    'sh[10]': 0.008605616
+    'sh[11]': 0.014190507
+    'sh[12]': -0.02179269
+    'sh[13]': -0.013119599
+    'sh[14]': 0.0031162505
+    'sh[15]': -0.0006099218
+    'sh[16]': -0.0036472187
+    'sh[17]': -0.0049240845
+    'sh[18]': 0.00478976
+    'sh[19]': 0.00076189684
+    'sh[20]': 0.0013065636
+    'sh[21]': -0.0018238961
+    'sh[22]': -0.0010300019
+    'sh[23]': 0.00025832508
+    'sh[24]': 0.000009494572
+    'sh[25]': -0.00032071347
+    'sh[26]': -0.00039421854
   m_SHValidForCapturePosition: {x: -1.4623662, y: 10.341093, z: -9.893683}
   m_SHValidForSourcePosition: {x: -1.4623662, y: 10.341093, z: -9.893683}
   m_ReflectionProbeVersion: 10
@@ -5628,33 +5628,33 @@ MonoBehaviour:
     m_Aspect: 0
   m_HasValidSHForNormalization: 1
   m_SHForNormalization:
-    'sh[ 0]': 0.6715635
-    'sh[ 1]': 0.37345165
-    'sh[ 2]': -0.02467874
-    'sh[ 3]': 0.060310073
-    'sh[ 4]': 0.023428338
-    'sh[ 5]': -0.010701767
-    'sh[ 6]': -0.008309015
-    'sh[ 7]': -0.028816354
-    'sh[ 8]': -0.02464181
-    'sh[ 9]': 0.21208473
-    'sh[10]': 0.11990506
-    'sh[11]': -0.0024666837
-    'sh[12]': 0.018595194
-    'sh[13]': 0.009285679
-    'sh[14]': -0.002064946
-    'sh[15]': -0.0007032276
-    'sh[16]': -0.009865445
-    'sh[17]': -0.004360349
-    'sh[18]': 0.020174362
-    'sh[19]': 0.009003729
-    'sh[20]': -0.0005905728
-    'sh[21]': 0.00044307433
-    'sh[22]': 0.00080601126
-    'sh[23]': -0.00043539773
-    'sh[24]': 0.00004742093
-    'sh[25]': -0.0010929671
-    'sh[26]': -0.000004202729
+    'sh[ 0]': 0.67765224
+    'sh[ 1]': 0.38013926
+    'sh[ 2]': -0.024044286
+    'sh[ 3]': 0.07566587
+    'sh[ 4]': 0.025171163
+    'sh[ 5]': 0.0052518873
+    'sh[ 6]': -0.005026321
+    'sh[ 7]': -0.029769007
+    'sh[ 8]': -0.025476187
+    'sh[ 9]': 0.21507436
+    'sh[10]': 0.12143083
+    'sh[11]': -0.0023851227
+    'sh[12]': 0.025630886
+    'sh[13]': 0.01060569
+    'sh[14]': 0.0029219515
+    'sh[15]': 0.0003853635
+    'sh[16]': -0.010747766
+    'sh[17]': -0.0044580875
+    'sh[18]': 0.020363659
+    'sh[19]': 0.009180398
+    'sh[20]': -0.00072245515
+    'sh[21]': 0.0013958275
+    'sh[22]': 0.0008710743
+    'sh[23]': -0.00004540784
+    'sh[24]': 0.00019236328
+    'sh[25]': -0.0010801861
+    'sh[26]': -0.000038660994
   m_SHValidForCapturePosition: {x: 5.741204, y: 11.28905, z: 3.3593125}
   m_SHValidForSourcePosition: {x: 5.741204, y: 11.28905, z: 3.3593125}
   m_ReflectionProbeVersion: 10
@@ -7987,7 +7987,6 @@ MonoBehaviour:
   m_Script: {fileID: 2053568598}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Entries: []
 --- !u!4 &653913409
 Transform:
   m_ObjectHideFlags: 19
@@ -8600,25 +8599,6 @@ MonoBehaviour:
   m_Script: {fileID: 1003442497}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Entries:
-  - id: 0
-    category: 0
-    gameObject: {fileID: 472941187}
-  - id: 1
-    category: 0
-    gameObject: {fileID: 180938877}
-  - id: 2
-    category: 0
-    gameObject: {fileID: 995828505}
-  - id: 3
-    category: 0
-    gameObject: {fileID: 90563476}
-  - id: 4
-    category: 0
-    gameObject: {fileID: 172197298}
-  - id: 5
-    category: 0
-    gameObject: {fileID: 1041364593}
 --- !u!4 &700517480
 Transform:
   m_ObjectHideFlags: 19
@@ -10008,6 +9988,75 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!1 &864194217
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 864194218}
+  - component: {fileID: 864194219}
+  m_Layer: 0
+  m_Name: LocalFog_ExteriorGeneral_02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &864194218
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864194217}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.26649523, z: -0, w: 0.96383625}
+  m_LocalPosition: {x: -13.06, y: -2.81, z: -3.63}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1003657917}
+  m_LocalEulerAnglesHint: {x: 0, y: -30.912, z: 0}
+--- !u!114 &864194219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864194217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Runtime::UnityEngine.Rendering.HighDefinition.LocalVolumetricFog
+  m_Version: 3
+  parameters:
+    albedo: {r: 0.41194963, g: 0.62396634, b: 1, a: 1}
+    meanFreePath: 4
+    blendingMode: 1
+    priority: 0
+    anisotropy: 0
+    volumeMask: {fileID: 0}
+    textureScrollingSpeed: {x: 0, y: 0, z: 0}
+    textureTiling: {x: 1, y: 1, z: 1}
+    positiveFade: {x: 0.15, y: 0.5, z: 0.15}
+    negativeFade: {x: 0.15, y: 0.5, z: 0.15}
+    m_EditorUniformFade: 1.5
+    m_EditorPositiveFade: {x: 0.0066666664, y: 0.03333333, z: 0.0066666664}
+    m_EditorNegativeFade: {x: 0.0066666664, y: 0.03333333, z: 0.0066666664}
+    m_EditorAdvancedFade: 0
+    scaleMode: 0
+    size: {x: 15, y: 3, z: 15}
+    invertFade: 0
+    distanceFadeStart: 10000
+    distanceFadeEnd: 10000
+    textureOffset: {x: 0, y: 0, z: 0}
+    falloffMode: 0
+    maskMode: 0
+    materialMask: {fileID: 0}
 --- !u!1 &865675788
 GameObject:
   m_ObjectHideFlags: 0
@@ -10174,7 +10223,6 @@ MonoBehaviour:
   m_Script: {fileID: 1153425517}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Entries: []
 --- !u!4 &871801248
 Transform:
   m_ObjectHideFlags: 19
@@ -11235,6 +11283,75 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1003657917}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &939064960
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 939064961}
+  - component: {fileID: 939064962}
+  m_Layer: 0
+  m_Name: LocalFog_ExteriorGeneral_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &939064961
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 939064960}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.26649523, z: -0, w: 0.96383625}
+  m_LocalPosition: {x: -17.11, y: -2.81, z: 15.210001}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1003657917}
+  m_LocalEulerAnglesHint: {x: 0, y: -30.912, z: 0}
+--- !u!114 &939064962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 939064960}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Runtime::UnityEngine.Rendering.HighDefinition.LocalVolumetricFog
+  m_Version: 3
+  parameters:
+    albedo: {r: 0.41194963, g: 0.62396634, b: 1, a: 1}
+    meanFreePath: 4
+    blendingMode: 1
+    priority: 0
+    anisotropy: 0
+    volumeMask: {fileID: 0}
+    textureScrollingSpeed: {x: 0, y: 0, z: 0}
+    textureTiling: {x: 1, y: 1, z: 1}
+    positiveFade: {x: 0.075, y: 0.5, z: 0.075}
+    negativeFade: {x: 0.075, y: 0.5, z: 0.075}
+    m_EditorUniformFade: 1.5
+    m_EditorPositiveFade: {x: 0.005, y: 0.03333333, z: 0.005}
+    m_EditorNegativeFade: {x: 0.005, y: 0.03333333, z: 0.005}
+    m_EditorAdvancedFade: 0
+    scaleMode: 0
+    size: {x: 20, y: 3, z: 20}
+    invertFade: 0
+    distanceFadeStart: 10000
+    distanceFadeEnd: 10000
+    textureOffset: {x: 0, y: 0, z: 0}
+    falloffMode: 0
+    maskMode: 0
+    materialMask: {fileID: 0}
 --- !u!65 &943558000
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12263,33 +12380,33 @@ MonoBehaviour:
     m_Aspect: 0
   m_HasValidSHForNormalization: 1
   m_SHForNormalization:
-    'sh[ 0]': 0.07737836
-    'sh[ 1]': -0.0064049205
-    'sh[ 2]': -0.014718467
-    'sh[ 3]': -0.029419657
-    'sh[ 4]': 0.0074267266
-    'sh[ 5]': 0.0054261754
-    'sh[ 6]': -0.002925572
-    'sh[ 7]': -0.00080721395
-    'sh[ 8]': 0.0030990762
-    'sh[ 9]': 0.023824483
-    'sh[10]': -0.003723704
-    'sh[11]': 0.0012512938
-    'sh[12]': -0.011088448
-    'sh[13]': 0.0006664326
-    'sh[14]': 0.0032749278
-    'sh[15]': -0.00025173003
-    'sh[16]': -0.002262733
-    'sh[17]': 0.0013205039
-    'sh[18]': 0.0052998983
-    'sh[19]': 0.0003316297
-    'sh[20]': 0.001246309
-    'sh[21]': -0.0026414718
-    'sh[22]': -0.00033981932
-    'sh[23]': 0.0006167106
-    'sh[24]': 0.0001357434
-    'sh[25]': -0.0011827649
-    'sh[26]': 0.00011016634
+    'sh[ 0]': 0.0691124
+    'sh[ 1]': -0.0009449912
+    'sh[ 2]': -0.011032522
+    'sh[ 3]': -0.021644112
+    'sh[ 4]': -0.0056293807
+    'sh[ 5]': 0.00022701778
+    'sh[ 6]': -0.0012212769
+    'sh[ 7]': 0.00049025024
+    'sh[ 8]': -0.0018536363
+    'sh[ 9]': 0.024189593
+    'sh[10]': -0.0008599863
+    'sh[11]': 0.00092267577
+    'sh[12]': -0.010418465
+    'sh[13]': -0.002701445
+    'sh[14]': 0.0008067984
+    'sh[15]': -0.00030145203
+    'sh[16]': -0.0004542835
+    'sh[17]': -0.00016233651
+    'sh[18]': 0.005753003
+    'sh[19]': 0.00062207424
+    'sh[20]': 0.0010354181
+    'sh[21]': -0.0027073612
+    'sh[22]': -0.00054983614
+    'sh[23]': 0.00016633506
+    'sh[24]': 0.0000025487489
+    'sh[25]': -0.00039051488
+    'sh[26]': 0.000013242857
   m_SHValidForCapturePosition: {x: 13, y: 9.5, z: 20.5}
   m_SHValidForSourcePosition: {x: 13, y: 9.5, z: 20.5}
   m_ReflectionProbeVersion: 10
@@ -12402,6 +12519,11 @@ Transform:
   - {fileID: 2101513205}
   - {fileID: 1292095473}
   - {fileID: 929786572}
+  - {fileID: 1046860191}
+  - {fileID: 939064961}
+  - {fileID: 864194218}
+  - {fileID: 2071038887}
+  - {fileID: 2071879005}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1009927776
@@ -13212,33 +13334,33 @@ MonoBehaviour:
     m_Aspect: 0
   m_HasValidSHForNormalization: 1
   m_SHForNormalization:
-    'sh[ 0]': 0.027406568
-    'sh[ 1]': -0.017121408
-    'sh[ 2]': -0.00814304
-    'sh[ 3]': 0.0058237826
-    'sh[ 4]': -0.0016492107
-    'sh[ 5]': 0.0030401042
-    'sh[ 6]': -0.0003422216
-    'sh[ 7]': 0.00047637173
-    'sh[ 8]': -0.0017435665
-    'sh[ 9]': 0.008958704
-    'sh[10]': -0.0055901315
-    'sh[11]': -0.0028863156
-    'sh[12]': 0.0013993968
-    'sh[13]': -0.00039667677
-    'sh[14]': 0.0011126536
-    'sh[15]': -0.00010014416
-    'sh[16]': 0.00017276382
-    'sh[17]': -0.0005457152
-    'sh[18]': 0.0017327961
-    'sh[19]': -0.0010910357
-    'sh[20]': -0.00042665075
-    'sh[21]': 0.000398368
-    'sh[22]': -0.00014382189
-    'sh[23]': 0.00016989354
-    'sh[24]': -0.000032165583
-    'sh[25]': -0.000026713125
-    'sh[26]': -0.00008971214
+    'sh[ 0]': 0.027804496
+    'sh[ 1]': -0.01806548
+    'sh[ 2]': -0.0044054473
+    'sh[ 3]': 0.004614757
+    'sh[ 4]': -0.0022854554
+    'sh[ 5]': 0.004899083
+    'sh[ 6]': -0.0001741275
+    'sh[ 7]': -0.00090508594
+    'sh[ 8]': -0.002369864
+    'sh[ 9]': 0.00859381
+    'sh[10]': -0.0054599755
+    'sh[11]': -0.0015630829
+    'sh[12]': 0.0013003834
+    'sh[13]': -0.0006776501
+    'sh[14]': 0.0015256542
+    'sh[15]': -0.000060994123
+    'sh[16]': -0.00024727263
+    'sh[17]': -0.00064748485
+    'sh[18]': 0.0018646221
+    'sh[19]': -0.0012244072
+    'sh[20]': -0.00039478953
+    'sh[21]': 0.000575811
+    'sh[22]': -0.00027375828
+    'sh[23]': 0.00023521866
+    'sh[24]': -0.00004716689
+    'sh[25]': -0.00012043343
+    'sh[26]': -0.00010361478
   m_SHValidForCapturePosition: {x: 8, y: 12, z: 5}
   m_SHValidForSourcePosition: {x: 8, y: 12, z: 5}
   m_ReflectionProbeVersion: 10
@@ -13283,6 +13405,75 @@ ReflectionProbe:
   m_UseOcclusionCulling: 1
   m_Importance: 1
   m_CustomBakedTexture: {fileID: 0}
+--- !u!1 &1046860190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1046860191}
+  - component: {fileID: 1046860192}
+  m_Layer: 0
+  m_Name: LocalFog_InteriorGeneral
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1046860191
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046860190}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.67, y: -0.267, z: 5.926}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1003657917}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1046860192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046860190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Runtime::UnityEngine.Rendering.HighDefinition.LocalVolumetricFog
+  m_Version: 3
+  parameters:
+    albedo: {r: 1, g: 0.78431374, b: 0.5647059, a: 1}
+    meanFreePath: 6
+    blendingMode: 1
+    priority: 0
+    anisotropy: 0
+    volumeMask: {fileID: 0}
+    textureScrollingSpeed: {x: 0, y: 0, z: 0}
+    textureTiling: {x: 1, y: 1, z: 1}
+    positiveFade: {x: 0.0933821, y: 0.4, z: 0.10023053}
+    negativeFade: {x: 0.0933821, y: 0.4, z: 0.10023053}
+    m_EditorUniformFade: 2
+    m_EditorPositiveFade: {x: 0.004669104, y: 0.02, z: 0.0050115273}
+    m_EditorNegativeFade: {x: 0.004669104, y: 0.02, z: 0.0050115273}
+    m_EditorAdvancedFade: 0
+    scaleMode: 0
+    size: {x: 21.417381, y: 5, z: 19.954}
+    invertFade: 0
+    distanceFadeStart: 10000
+    distanceFadeEnd: 10000
+    textureOffset: {x: 0, y: 0, z: 0}
+    falloffMode: 0
+    maskMode: 0
+    materialMask: {fileID: 0}
 --- !u!1 &1049882635
 GameObject:
   m_ObjectHideFlags: 0
@@ -23379,6 +23570,144 @@ Light:
   m_LightUnit: 0
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!1 &2071038886
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2071038887}
+  - component: {fileID: 2071038888}
+  m_Layer: 0
+  m_Name: LocalFog_ExteriorGeneral_03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2071038887
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071038886}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.26649523, z: -0, w: 0.96383625}
+  m_LocalPosition: {x: -5.53, y: -2.81, z: -9.57}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1003657917}
+  m_LocalEulerAnglesHint: {x: 0, y: -30.912, z: 0}
+--- !u!114 &2071038888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071038886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Runtime::UnityEngine.Rendering.HighDefinition.LocalVolumetricFog
+  m_Version: 3
+  parameters:
+    albedo: {r: 0.41194963, g: 0.62396634, b: 1, a: 1}
+    meanFreePath: 4
+    blendingMode: 1
+    priority: 0
+    anisotropy: 0
+    volumeMask: {fileID: 0}
+    textureScrollingSpeed: {x: 0, y: 0, z: 0}
+    textureTiling: {x: 1, y: 1, z: 1}
+    positiveFade: {x: 0.23360395, y: 0.5, z: 0.24136482}
+    negativeFade: {x: 0.23360395, y: 0.5, z: 0.24136482}
+    m_EditorUniformFade: 1.5
+    m_EditorPositiveFade: {x: 0.015573597, y: 0.03333333, z: 0.01609099}
+    m_EditorNegativeFade: {x: 0.015573597, y: 0.03333333, z: 0.01609099}
+    m_EditorAdvancedFade: 0
+    scaleMode: 0
+    size: {x: 6.421124, y: 3, z: 6.2146587}
+    invertFade: 0
+    distanceFadeStart: 10000
+    distanceFadeEnd: 10000
+    textureOffset: {x: 0, y: 0, z: 0}
+    falloffMode: 0
+    maskMode: 0
+    materialMask: {fileID: 0}
+--- !u!1 &2071879004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2071879005}
+  - component: {fileID: 2071879006}
+  m_Layer: 0
+  m_Name: LocalFog_ExteriorGeneral_04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2071879005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071879004}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.26649523, z: -0, w: 0.96383625}
+  m_LocalPosition: {x: 1.88, y: -2.81, z: -7.6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1003657917}
+  m_LocalEulerAnglesHint: {x: 0, y: -30.912, z: 0}
+--- !u!114 &2071879006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071879004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Runtime::UnityEngine.Rendering.HighDefinition.LocalVolumetricFog
+  m_Version: 3
+  parameters:
+    albedo: {r: 0.41194963, g: 0.62396634, b: 1, a: 1}
+    meanFreePath: 4
+    blendingMode: 1
+    priority: 0
+    anisotropy: 0
+    volumeMask: {fileID: 0}
+    textureScrollingSpeed: {x: 0, y: 0, z: 0}
+    textureTiling: {x: 1, y: 1, z: 1}
+    positiveFade: {x: 0.25, y: 0.5, z: 0.25}
+    negativeFade: {x: 0.25, y: 0.5, z: 0.25}
+    m_EditorUniformFade: 1.5
+    m_EditorPositiveFade: {x: 0.016666666, y: 0.03333333, z: 0.016666666}
+    m_EditorNegativeFade: {x: 0.016666666, y: 0.03333333, z: 0.016666666}
+    m_EditorAdvancedFade: 0
+    scaleMode: 0
+    size: {x: 6, y: 3, z: 6}
+    invertFade: 0
+    distanceFadeStart: 10000
+    distanceFadeEnd: 10000
+    textureOffset: {x: 0, y: 0, z: 0}
+    falloffMode: 0
+    maskMode: 0
+    materialMask: {fileID: 0}
 --- !u!1 &2077301122
 GameObject:
   m_ObjectHideFlags: 0
